@@ -90,19 +90,6 @@
             font-size: 32px; /* Increase icon size */
         }
 
-        .collapsible .toggle-icon::before {
-            content: "";
-            position: absolute;
-            width: 32px;  /* Adjust to the desired circle size */
-            height: 32px; /* Adjust to the desired circle size */
-            border: 1px solid #cacece; /* Same border color as checkbox */
-            border-radius: 50%; /* Makes it a circle */
-            z-index: -1; /* Puts it behind the '+' or '-' symbol */
-            left: 50%; /* Center the circle horizontally */
-            top: 50%; /* Center the circle vertically */
-            transform: translate(-50%, -50%); /* Necessary for accurate centering */
-        }
-
     </style>
     
 </head>
@@ -153,83 +140,113 @@
             <input type="checkbox" id="controlTranspacific" checked>
             Transpacific
         </label>
+        <label>
+            <input type="checkbox" id="controlTransatlantic" checked>
+            Transatlantic
+        </label>
+        <label>
+            <input type="checkbox" id="controlSubsea" checked>
+            Subsea
+        </label>
     </div>
 </div>
 
 
 <script>
-    mapboxgl.accessToken = 'pk.eyJ1IjoianVsaWFuLXJhZGlhbCIsImEiOiJjbGk0ZGlkMmYycWp4M3FudGgwbHJwbXNzIn0.UzaN1847nScw6rPqMf-Siw';
+    mapboxgl.accessToken = 'pk.eyJ1IjoibWF0dGlzMjAxNzIwIiwiYSI6ImNsajc5eGU2NTAzZGkzbXMzMHQ4YWN6d2sifQ.wIB2bSe1n7UyhyXOvybi0Q';
 
-    var colors = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf", "#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd"];
-    
-    var mapFiles = ['US', 'US_Sites', 'Europe', 'Europe_Sites', 'Asia', 'Asia_Sites', 'Transpacific'];
+    var lineStringColors = ["#29d07d", '#38fad1', '#20fffd', '#d3ffff','#d33333', '#ee33ff'];
+    var pointColors = ["#fff", '#fff', '#fff'];
+
+    var mapFiles_LineStrings = ['US', 'Europe', 'Asia', 'Transpacific', 'Transatlantic', 'Subsea'];
+    var mapFiles_Points = ['US_Sites', 'Europe_Sites', 'Asia_Sites'];
 
     var map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/dark-v10',
-        center: [0, 0],
-        zoom: 1
+        center: [-73.990593, 40.740121],
+        zoom: 3
     });
 
     map.on('load', function () {
-        for (let i = 0; i < mapFiles.length; i++) {
-            addLayersAndControls(mapFiles[i], `group${i%3+1}`);
+        for (let i = 0; i < mapFiles_LineStrings.length; i++) {
+            addLineLayer(mapFiles_LineStrings[i], lineStringColors[i]);
+        }
+
+        for (let i = 0; i < mapFiles_Points.length; i++) {
+            addPointLayer(mapFiles_Points[i], pointColors[i]);
         }
     });
 
-    function addLayersAndControls(filename, groupId) {
+    function addLineLayer(filename, color) {
         map.addSource(filename, {
             'type': 'geojson',
-            'data': `./${filename}.geojson`
+            'data': `LineStrings/${filename}.geojson`
         });
         map.addLayer({
             'id': filename,
             'type': 'line',
             'source': filename,
             'paint': {
-                'line-color': colors[mapFiles.indexOf(filename) % colors.length],
+                'line-color': color,
                 'line-width': 2
+            },
+            'layout': {
+                'visibility': 'visible' // Set initial visibility to 'visible'
             }
         });
+    }
 
-        var checkbox = document.createElement('input');
-        checkbox.type = 'checkbox';
-        checkbox.id = `control${filename}`;
-        checkbox.checked = true;
-        checkbox.onchange = function () {
-            var id = this.id.replace('control', '');
-            var visibility = map.getLayoutProperty(id, 'visibility');
-            if (visibility === 'visible') {
-                map.setLayoutProperty(id, 'visibility', 'none');
-            } else {
-                map.setLayoutProperty(id, 'visibility', 'visible');
+    function addPointLayer(filename, color) {
+        map.addSource(filename, {
+            'type': 'geojson',
+            'data': `Points/${filename}.geojson`
+        });
+        map.addLayer({
+            'id': `${filename}_points`,
+            'type': 'circle',
+            'source': filename,
+            'paint': {
+                'circle-color': color,
+                'circle-radius': 4
+            },
+            'layout': {
+                'visibility': 'visible' // Set initial visibility to 'visible'
             }
-        };
-        var label = document.createElement('label');
-        label.htmlFor = `control${filename}`;
-        label.textContent = filename;
-        label.insertBefore(checkbox, label.firstChild);
-
-        var controlDiv = document.getElementById(groupId);
-        controlDiv.appendChild(label);
+        });
     }
 
     var coll = document.getElementsByClassName("collapsible");
-    var i;
-    
-    for (i = 0; i < coll.length; i++) {
-      coll[i].addEventListener("click", function() {
-        this.classList.toggle("active");
-        var content = this.nextElementSibling;
-        if (content.style.display === "block") {
-          content.style.display = "none";
-          this.querySelector('.toggle-icon').textContent = '+';
-        } else {
-          content.style.display = "block";
-          this.querySelector('.toggle-icon').textContent = '-';
-        }
-      });
+
+    for (var i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+                this.querySelector('.toggle-icon').textContent = '+';
+            } else {
+                content.style.display = "block";
+                this.querySelector('.toggle-icon').textContent = '-';
+            }
+        });
     }
+
+    var checkboxes = document.querySelectorAll("input[type='checkbox']");
+
+    checkboxes.forEach(function(checkbox) {
+        checkbox.addEventListener("change", function() {
+            var id = this.id.replace("control", "");
+            var visibility = this.checked ? "visible" : "none";
+            map.setLayoutProperty(id, "visibility", visibility);
+            map.setLayoutProperty(id + "_points", "visibility", visibility);
+        });
+    });
 </script>
+
+
+
+
+
 </body>
 </html>
