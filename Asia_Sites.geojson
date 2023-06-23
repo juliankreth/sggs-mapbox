@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix HK1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1192605005102,
+          22.36556441161067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mega-i",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2464988235576,
+          22.26604875389664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IDC 3D Duren Tiga",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8326635,
+          -6.253512299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix TY2",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7480895992844,
+          35.61747279406958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AT Tokyo CC1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7909526,
+          35.647825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AIMS",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7063496035184,
+          3.149474854506465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cyberjava CX2",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6619158000409,
+          2.91704020021367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vitro Makati 1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0168044338093,
+          14.56076920135615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1-Net 750D",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92078695943,
+          1.32246644733259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1-Net 750E",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.920752453461,
+          1.323718829446811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BDx SIN1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8917573233774,
+          1.323900878477693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digital Realty SIN10 (Jurong)",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7461241850543,
+          1.327709398158464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digital Realty SIN11 (Loyang)",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9683587563964,
+          1.371082449422019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digital Realty SIN12 (Loyang)",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9662669090926,
+          1.370925289630131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DXC The Fort",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9515773989193,
+          1.332601586581956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Epsilon Singapore",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8606052850618,
+          1.352236348055974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix SG1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7900359166224,
+          1.295452368188883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix SG2",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6957317,
+          1.321500299999988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix SG3",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7908077,
+          1.2959615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix SG5",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7016115991268,
+          1.317216069978334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Global Switch Tai Seng",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8938277088824,
+          1.336723013280421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keppel DC1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.874874,
+          1.375497999999987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M1 MiWorld",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7502767599642,
+          1.32490523814969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NTT SGDC",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8748789277998,
+          1.3761850788053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Racks Central",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8931961529276,
+          1.336916173107204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "STT Tai Seng 1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8903720157525,
+          1.335467310818801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chief LY",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5774709913739,
+          25.07334771332513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "eASPNet",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5779418319115,
+          25.07345957175333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TCCT Bangna",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6516747374958,
+          13.66322515698986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viettel IDC Hoang Hoa Tham",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6500257139634,
+          10.80741931333016
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix AM7",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.938282184514011,
+          52.30322771874737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix FR5",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.632189530894493,
+          50.09903534944407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix LD8",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01493845432955831,
+          51.49819917580915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix PA2",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.350527361881352,
+          48.92718989819955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Interxion AMS9",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.952539736572823,
+          52.35633741927099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Interxion FRA8",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73769612300798,
+          50.11921011091021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Interxion MRS1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.373827881529659,
+          43.31101742375835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telehouse North",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.001975912699309079,
+          51.51211008650436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telehouse 2",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.384388524776042,
+          48.85624823365207
+        ]
+      }
+    }
+  ]
+}

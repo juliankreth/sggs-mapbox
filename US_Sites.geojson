@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix CH1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61831862453664,
+          41.85362519053021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digital Realty NYC2",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00214030540276,
+          40.74097220607835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix SV1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7832371989034,
+          37.24164237763161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coresite LA1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2556288507544,
+          34.04790385396003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Equinix MI1",
+        "description": "PoP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19303565021939,
+          25.7823398912143
+        ]
+      }
+    }
+  ]
+}
