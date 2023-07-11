@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Equinix CH1",
-        "description": "PoP"
+        "description": "PoP",
         "address": "350 E Cermak Rd, 5th Floor, Chicago, IL 60616, United States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
   
@@ -22,7 +22,7 @@
       "type": "Feature",
       "properties": {
         "name": "Digital Realty NYC2",
-        "description": "PoP"
+        "description": "PoP",
         "address": "111 8th Avenue New York, NY 10011 United States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
@@ -38,7 +38,7 @@
       "type": "Feature",
       "properties": {
         "name": "Equinix SV1",
-        "description": "PoP"
+        "description": "PoP",
         "address": "11 Great Oaks Boulevard San Jose, CA 95119 United States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
@@ -54,7 +54,7 @@
       "type": "Feature",
       "properties": {
         "name": "Coresite LA1",
-        "description": "PoP"
+        "description": "PoP",
         "address": " 624 South Grand Avenue Los Angeles, CA 90017 United States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0636a75cc1ef669a1_coresite.svg"
       },
@@ -70,7 +70,7 @@
       "type": "Feature",
       "properties": {
         "name": "Equinix MI1",
-        "description": "PoP"
+        "description": "PoP",
         "address": "50 NE 9th Street, Miami, FL 33132 United States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
