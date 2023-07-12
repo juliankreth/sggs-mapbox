@@ -6,6 +6,8 @@
       "properties": {
         "name": "Equinix AM7",
         "description": "PoP"
+        "address": "Kuiperbergweg 13 Amsterdam 1101 AE Netherlands",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
         "type": "Point",
@@ -20,6 +22,8 @@
       "properties": {
         "name": "Equinix FR5",
         "description": "PoP"
+        "address": "Kleyerstrasse 90 60326 Frankfurt am Main Germany",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
         "type": "Point",
@@ -34,6 +38,8 @@
       "properties": {
         "name": "Equinix LD8",
         "description": "PoP"
+        "address": "6/7/8/9 Harbour Exchange Square Limeharbour London E14 9GE",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
         "type": "Point",
@@ -48,6 +54,8 @@
       "properties": {
         "name": "Equinix PA2",
         "description": "PoP"
+        "address": "114 Rue Ambroise Croizat 93200 Saint-Denis France",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
         "type": "Point",
@@ -62,6 +70,8 @@
       "properties": {
         "name": "Interxion AMS9",
         "description": "PoP"
+        "address": "Science Park 121 Amsterdam 1098 XG Netherlands",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
       "geometry": {
         "type": "Point",
@@ -76,6 +86,8 @@
       "properties": {
         "name": "Interxion FRA8",
         "description": "PoP"
+        "address": "Weissmuellerstrasse 25-27, Frankfurt 60314, Germany",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
       "geometry": {
         "type": "Point",
@@ -90,6 +102,8 @@
       "properties": {
         "name": "Interxion MRS1",
         "description": "PoP"
+        "address": "40 Avenue Roger Salengro Marseille 13003 France",
+        "image": https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
       "geometry": {
         "type": "Point",
@@ -104,6 +118,8 @@
       "properties": {
         "name": "Telehouse North",
         "description": "PoP"
+        "address": " Coriander Avenue Poplar London E14 2AA",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec1da25c8a8074fbc3d_telehouse.svg"
       },
       "geometry": {
         "type": "Point",
@@ -116,8 +132,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Telehouse 2",
+        "name": "Telehouse Voltaire",
         "description": "PoP"
+        "address": "137 Boulevard Voltaire Paris 75011 France",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec1da25c8a8074fbc3d_telehouse.svg"
       },
       "geometry": {
         "type": "Point",
