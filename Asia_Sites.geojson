@@ -5,7 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Equinix HK1",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "27/F Goodman Global Gateway 168 Yeung Uk Road Tsuen Wan Hong Kong",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +21,9 @@
       "type": "Feature",
       "properties": {
         "name": "Mega-i",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "399 Chai Wan Road Chai Wan Hong Kong",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec07bf44cd9d987bb5e_m.svg"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +37,9 @@
       "type": "Feature",
       "properties": {
         "name": "IDC 3D Duren Tiga",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "Raya No. 7H Duren Tiga Jakarta 12760 Indonesia",
+        "image": "Example"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +53,9 @@
       "type": "Feature",
       "properties": {
         "name": "Equinix TY2",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "3-8-21 Higashi-Shinagawa Shinagawa-ku Tokyo 140-0002 Japan",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +69,9 @@
       "type": "Feature",
       "properties": {
         "name": "AT Tokyo CC1",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "TEPCO Toyosu Building 6-2-15 Toyosu Koto-ku Tokyo 135-0061 Japan",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec16c9fe3489b7150f6_tokyo.svg"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +85,9 @@
       "type": "Feature",
       "properties": {
         "name": "AIMS",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "Menara AIMS Changkat Raja Chulan Kuala Lumpur 50200 Malaysia",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824b96_aims.svg"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +101,9 @@
       "type": "Feature",
       "properties": {
         "name": "Cyberjava CX2",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "7118 Jalan Impact Cyberjaya Selangor 63000 Malaysia",
+        "image": "https://example.com/path/to/another-image.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +117,9 @@
       "type": "Feature",
       "properties": {
         "name": "Vitro Makati 1",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "123 Main St, Anytown, Anystate, United States of America",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec06d0f25c7866ddb74_epldr.svg"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +133,9 @@
       "type": "Feature",
       "properties": {
         "name": "1-Net 750D",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "750D Chai Chee Road, #07-04, Singapore 469004",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0d49cdd7db3721962_1net.svg"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +149,9 @@
       "type": "Feature",
       "properties": {
         "name": "1-Net 750E",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "750E Chai Chee Road, #06-01, Singapore 469005",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0d49cdd7db3721962_1net.svg"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +165,9 @@
       "type": "Feature",
       "properties": {
         "name": "BDx SIN1",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "110 Paya Lebar Rd, Singapore 409009",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec03804a2e7ae478d07_bdx.svg"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +181,9 @@
       "type": "Feature",
       "properties": {
         "name": "Digital Realty SIN10 (Jurong)",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "29A International Business Park Singapore 609934 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +197,9 @@
       "type": "Feature",
       "properties": {
         "name": "Digital Realty SIN11 (Loyang)",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "3 Loyang Way Singapore 508719 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +213,9 @@
       "type": "Feature",
       "properties": {
         "name": "Digital Realty SIN12 (Loyang)",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "11 Loyang Close Singapore 506756 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +229,9 @@
       "type": "Feature",
       "properties": {
         "name": "DXC The Fort",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "6 Changi South Lane Singapore 486400 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0ed61980a7ccc8763_dxt.svg"
       },
       "geometry": {
         "type": "Point",
@@ -214,8 +244,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Epsilon Singapore",
-        "description": "PoP"
+        "name": "Epsilon Global Hubs Singapore",
+        "description": "PoP",
+        "address": "151 Lorong Chuan #06-02 Lobby A Singapore 556741 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec06c90b517b89c3826_epsilon.svg"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +261,9 @@
       "type": "Feature",
       "properties": {
         "name": "Equinix SG1",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "20 Ayer Rajah Crescent Singapore 139964 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +277,9 @@
       "type": "Feature",
       "properties": {
         "name": "Equinix SG2",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "15 Pioneer Walk #04-01 Singapore 627753 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +293,9 @@
       "type": "Feature",
       "properties": {
         "name": "Equinix SG3",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "26A Ayer Rajah Crescent Private Lot FX1-4a Singapore 139963 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +309,9 @@
       "type": "Feature",
       "properties": {
         "name": "Equinix SG5",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "6 Sunview Drive Singapore 627488 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +325,9 @@
       "type": "Feature",
       "properties": {
         "name": "Global Switch Tai Seng",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "2 Tai Seng Avenue Singapore 534408 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec1a1c692b00ef1d6c6_globalswich.svg"
       },
       "geometry": {
         "type": "Point",
@@ -298,8 +340,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Keppel DC1",
-        "description": "PoP"
+        "name": "Keppel DC Singapore 1",
+        "description": "PoP",
+        "address": "25 Serangoon North Ave 5 Singapore 554914 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec01b8995c850363dcc_keppel.svg"
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +357,9 @@
       "type": "Feature",
       "properties": {
         "name": "M1 MiWorld",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "9 International Business Park Singapore 609915 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec07bf44cd9d987bb5e_m.svg"
       },
       "geometry": {
         "type": "Point",
@@ -326,8 +372,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "NTT SGDC",
-        "description": "PoP"
+        "name": "NTT Serangoon Data Center",
+        "description": "PoP",
+        "address": "51 Serangoon North Avenue 4 Singapore 555858 Singapor",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec03804a2e7ae478e05_ntt.svg"
       },
       "geometry": {
         "type": "Point",
@@ -341,7 +389,9 @@
       "type": "Feature",
       "properties": {
         "name": "Racks Central",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "23 Tai Seng Drive Singapore 535224 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec03b9c8ab3e6a5348f_racks.svg"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +405,9 @@
       "type": "Feature",
       "properties": {
         "name": "STT Tai Seng 1",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "35 Tai Seng Street Singapore 534103 Singapore",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec06d0f25c7866ddbcc_stt.svg"
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +421,9 @@
       "type": "Feature",
       "properties": {
         "name": "Chief LY",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "Building No. 250 Yangguang Street Taipei Neihu 114 Taiwan",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec07bf44cd9d987bac6_chief.svg"
       },
       "geometry": {
         "type": "Point",
@@ -383,7 +437,9 @@
       "type": "Feature",
       "properties": {
         "name": "eASPNet",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "o. 248 Yangguang Street Taipei Neihu 114 Taiwan",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec029a7b59dac0ea66e_easpnet.svg"
       },
       "geometry": {
         "type": "Point",
@@ -397,7 +453,9 @@
       "type": "Feature",
       "properties": {
         "name": "TCCT Bangna",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "1856 Interlink Tower II Bangna Trad Rd K.M. 4.5 Bangna Bangkok 10260 Thailand",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec129a7b59dac0eabd1_tcc.svg"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +469,9 @@
       "type": "Feature",
       "properties": {
         "name": "Viettel IDC Hoang Hoa Tham",
-        "description": "PoP"
+        "description": "PoP",
+        "address": "58/2A Hoang Hoa Tham Street, Ward 12, Tan Binh Dist., HCMC, Vietnam",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec1ed61980a7ccc881a_viettel.svg"
       },
       "geometry": {
         "type": "Point",
