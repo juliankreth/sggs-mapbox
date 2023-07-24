@@ -133,7 +133,7 @@
       "type": "Feature",
       "properties": {
         "name": "Telehouse Voltaire",
-        "description": "PoP"
+        "description": "PoP",
         "address": "137 Boulevard Voltaire Paris 75011 France",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec1da25c8a8074fbc3d_telehouse.svg"
       },
