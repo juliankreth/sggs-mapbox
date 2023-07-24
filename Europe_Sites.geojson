@@ -103,7 +103,7 @@
         "name": "Digital Realty MRS1",
         "description": "PoP",
         "address": "40 Avenue Roger Salengro Marseille 13003 France",
-        "image": https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
       "geometry": {
         "type": "Point",
