@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Europe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Telehouse North - Equinix AM7", "description": "English Channel Submarine", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ 4.938154940698587, 52.303189320575562, 0.0 ], [ -0.001132784074213, 51.511582662536718, 0.0 ], [ -0.001720112737756, 51.512141856637427, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Telehouse North - Equinix FR5", "description": "English Channel Submarine", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -0.001705526056094, 51.512022123570311, 0.0 ], [ 8.632068415422882, 50.099132704701979, 0.0 ] ] } }
+]
+}
