@@ -2,7 +2,17 @@
 "type": "FeatureCollection",
 "name": "offices",
 "features": [
-{ "type": "Feature", "properties": { "Name": "SGGS NETWORK SDN. BHD.", "description": "Office", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 101.6789256, 2.9963089, 0.0 ] } },
+{ "type": "Feature", 
+    "properties": { 
+      "Name": "SGGS NETWORK SDN. BHD.", 
+      "description": "Office", 
+      "timestamp": null, 
+      "begin": null, "end": null, 
+      "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, 
+  "geometry": { 
+      "type": "Point", 
+      "coordinates": [ 101.6789256, 2.9963089, 0.0 ] 
+} },
 { "type": "Feature", "properties": { "Name": "SG.GS PTE. LTD.", "description": "Office", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 103.920409099999901, 1.3233178, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "SG.GS (HK) LIMITED", "description": "Office", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 114.2061161, 22.32148650000001, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "SG.GS INTERNATIONAL LTD", "description": "Office", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ -0.098546725422637, 51.51968165718548, 0.0 ] } }
