@@ -22,7 +22,7 @@
       "properties": {
         "name": "Equinix SY1",
         "description": "PoP",
-        "address": "Equinix SY1<br>Unit B/C<br>639 Gardeners Road<br>Mascot<br>Sydney<br>NSW 2020<br>Australia",
+        "address": "Equinix SY1/nUnit B/C/n639 Gardeners Road/nMascot/nSydney/nNSW 2020 Australia",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
