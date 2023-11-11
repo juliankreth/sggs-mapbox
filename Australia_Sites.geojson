@@ -6,9 +6,7 @@
       "properties": {
         "name": "NEXTDC P1",
         "description": "PoP",
-        "address": "NEXTDC P1 
-101 Malaga Dr/n>Malaga\nWA 6090
-Australia",
+        "address": "NEXTDC P1 101 Malaga Dr Malaga WA 6090 Australia",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec08873846c2c4b548d_nextdc.svg"
       },
       "geometry": {
