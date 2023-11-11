@@ -18,9 +18,6 @@
         ]
       }
     },
-{
-  "type": "FeatureCollection",
-  "features": [
     {
       "type": "Feature",
       "properties": {
@@ -38,9 +35,6 @@
         ]
       }
     },
-{
-  "type": "FeatureCollection",
-  "features": [
     {
       "type": "Feature",
       "properties": {
@@ -59,11 +53,7 @@
       }
     },
 
-    {
-     "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
+    { "type": "Feature",
       "properties": {
         "name": "SG.GS PTE. LTD.",
         "description": "Office",
@@ -77,8 +67,8 @@
           103.920409099999901, 
           1.3233178
         ]
-      }
-    },
+      
+      },
 
     }
   ]
