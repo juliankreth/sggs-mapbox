@@ -9,9 +9,9 @@
     { "Name": "NEXTDC P1", 
       "description": "PoP",
       "address": "NEXTDC P1\n101 Malaga Dr\nMalaga\nWA 6090\nAustralia",
-      "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec08873846c2c4b548d_nextdc.svg"
+      "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec08873846c2c4b548d_nextdc.svg",
 
-"timestamp": null, 
+      "timestamp": null, 
       "begin": null, 
       "end": null, 
       "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, 
