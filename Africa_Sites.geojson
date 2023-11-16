@@ -1,8 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
- 
-    {
+     {
       "type": "Feature",
       "properties": {
         "name": "Teraco JB1",
@@ -16,7 +15,7 @@
           28.19772974503535, 
           -26.13774591087882
         ]
-      
+      }
     }
   ]
 }
