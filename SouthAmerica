@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "SouthAmerica",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Equinix SP3 - Digital Realty NYC2", "description": "Americas Submarine", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": 0, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ -46.863878233399859, -23.46580727589766, 0.0 ], [ -74.003345013838555, 40.74143050902854, 0.0 ] ] } }
+]
+}
