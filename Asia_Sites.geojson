@@ -465,6 +465,22 @@
         ]
       }
     },
+   {
+      "type": "Feature",
+      "properties": {
+        "name": "KINX Dogok",
+        "description": "PoP",
+        "address": "5F, Daelim Acrotel, 13\nEonju-ro 30-gil\nGangnam-gu\nSeoul\nSouth Korea",
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec129a7b59dac0eabd1_tcc.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.051206577032204, 
+          37.488142217345427
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
