@@ -2,7 +2,7 @@
   <ns0:name xmlns:ns0="http://www.opengis.net/kml/2.2">Transpacific</ns0:name>
   <ns1:open xmlns:ns1="http://www.opengis.net/kml/2.2">1</ns1:open>
   <ns2:Placemark xmlns:ns2="http://www.opengis.net/kml/2.2">
-    <ns2:name>Coresite LA1 - AT Tokyo CC1 - JUPITER</ns2:name>
+    <ns2:name>Coresite LA1 - AT Tokyo CC1 /nJUPITER</ns2:name>
     <ns2:description>Subsea</ns2:description>
     <ns2:styleUrl>#msn_ylw-pushpin11</ns2:styleUrl>
     <ns2:LineString>
@@ -13,7 +13,7 @@
     </ns2:LineString>
   </ns2:Placemark>
   <ns3:Placemark xmlns:ns3="http://www.opengis.net/kml/2.2">
-    <ns3:name>Coresite LA1 - Equinix TY2 - FASTER</ns3:name>
+    <ns3:name>Coresite LA1 - Equinix TY2 /nFASTER</ns3:name>
     <ns3:description>Subsea</ns3:description>
     <ns3:styleUrl>#msn_ylw-pushpin11</ns3:styleUrl>
     <ns3:LineString>
@@ -24,7 +24,7 @@
     </ns3:LineString>
   </ns3:Placemark>
   <ns4:Placemark xmlns:ns4="http://www.opengis.net/kml/2.2">
-    <ns4:name>Coresite LA1 - Equinix TY2 - Unity</ns4:name>
+    <ns4:name>Coresite LA1 - Equinix TY2 /nUnity</ns4:name>
     <ns4:description>Subsea</ns4:description>
     <ns4:styleUrl>#msn_ylw-pushpin11</ns4:styleUrl>
     <ns4:LineString>
