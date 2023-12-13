@@ -5,7 +5,7 @@
 { "type": "Feature", 
 "properties": 
 { "Name": "Telehouse North - Digital Realty NYC2", 
-"description": "Transatlantic Submarine Protected - AEConnect-1 / FLAG Atlantic 1 (FA-1)", 
+"description": "Transatlantic Submarine \nProtected - AEConnect-1 / FLAG Atlantic 1 (FA-1)", 
 "tessellate": 1, "extrude": 0, "visibility": -1 }, 
 "geometry": 
 { "type": "LineString", 
