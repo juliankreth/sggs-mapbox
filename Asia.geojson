@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "name": "Asia",
 "features": [
+{ "type": "Feature", "properties": { "Name": "AT Tokyo CC1 - eASPNet", "description": "Asia Submarine\nREACH North Asia Loop (RNAL)" }, "geometry": { "type": "LineString", "coordinates": [ [ 121.577945369384196, 25.073480798170799, 0.0 ], [ 121.812070071107001, 24.862346767088731, 0.0 ], [ 130.824171614660202, 25.484437056701601, 0.0 ], [ 140.984941763915288, 34.263860901635262, 0.0 ], [ 139.981147632932306, 35.020095106222648, 0.0 ], [ 140.26293670357029, 35.642076352985583, 0.0 ], [ 139.924098035310493, 35.80245449673324, 0.0 ], [ 139.790502903861892, 35.647757134574348, 0.0 ] ] } },
 { "type": "Feature", "properties": { "Name": "AIMS - Cyberjaya MY01", "description": "Terrestrial" }, "geometry": { "type": "LineString", "coordinates": [ [ 101.662010623730893, 2.917195635486984, 0.0 ], [ 101.706298166639598, 3.149423898277381, 0.0 ] ] } },
 { "type": "Feature", "properties": { "Name": "AIMS - Equinix SG1", "description": "Terrestrial" }, "geometry": { "type": "LineString", "coordinates": [ [ 101.706356627333605, 3.149465902737769, 0.0 ], [ 103.789993331125899, 1.295626560159216, 0.0 ] ] } },
 { "type": "Feature", "properties": { "Name": "Chief LY - eASPNet", "description": "Terrestrial" }, "geometry": { "type": "LineString", "coordinates": [ [ 121.577599074907198, 25.07332259653241, 0.0 ], [ 121.577640533906006, 25.073185965984131, 0.0 ], [ 121.578031414982206, 25.073283957060891, 0.0 ], [ 121.577943983892496, 25.073466525301939, 0.0 ] ] } },
