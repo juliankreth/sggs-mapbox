@@ -470,7 +470,7 @@
       "properties": {
         "name": "KINX Dogok",
         "description": "PoP",
-        "address": "5F, Daelim Acrotel, 13\nEonju-ro 30-gil\nGangnam-gu\nSeoul\nSouth Korea",
+        "address": "KINX Dogok,\n5F, Daelim Acrotel, 13,\nEonju-ro 30-gil,\nGangnam-gu,\nSeoul,\nSouth Korea",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65562f2dd30cb7807276937e_Kinx_1.svg"
       },
       "geometry": {
@@ -486,7 +486,7 @@
       "properties": {
         "name": "Metfone VTC6",
         "description": "PoP",
-        "address": "St 105K, Phum Kbal Damrei,\nSangKat Kakab,\nPhnom Penh,\nCambodia",
+        "address": "Metfone VTC6,\nSt 105K, Phum Kbal Damrei,\nSangKat Kakab,\nPhnom Penh,\nCambodia",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65562f2e48afbef3b88bb9db_metfone.svg"
       },
       "geometry": {
@@ -502,7 +502,7 @@
       "properties": {
         "name": "Viettel IDC Hoang Hoa Tham",
         "description": "PoP",
-        "address": "Viettel IDC Hoang Hoa Tham\nH158/2A Hoang Hoa Tham,\nTan Binh,\nHo Chi Minh City 100000,\nVietnam",
+        "address": "Viettel IDC Hoang Hoa Tham,\nH158/2A Hoang Hoa Tham,\nTan Binh,\nHo Chi Minh City 100000,\nVietnam",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec1ed61980a7ccc881a_viettel.svg"
       },
       "geometry": {
