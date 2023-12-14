@@ -1,9 +1,3 @@
-
-
-
-
-
-
 {
   "type": "FeatureCollection",
   "features": [
@@ -428,7 +422,7 @@
       "properties": {
         "name": "Chief LY",
         "description": "PoP",
-        "address": "Building No. 250 Yangguang Street Taipei Neihu 114 Taiwan",
+        "address": "Chief LY Building\nNo. 250 Yangguang Street,\nTaipei Neihu 114,\nTaiwan",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec07bf44cd9d987bac6_chief.svg"
       },
       "geometry": {
@@ -444,7 +438,7 @@
       "properties": {
         "name": "eASPNet",
         "description": "PoP",
-        "address": "o. 248 Yangguang Street Taipei Neihu 114 Taiwan",
+        "address": "eASPNet\nNo. 248 Yangguang Street,\nTaipei Neihu 114,\nTaiwan",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec029a7b59dac0ea66e_easpnet.svg"
       },
       "geometry": {
@@ -460,7 +454,7 @@
       "properties": {
         "name": "TCCT Bangna",
         "description": "PoP",
-        "address": "1856 Interlink Tower II Bangna Trad Rd K.M. 4.5 Bangna Bangkok 10260 Thailand",
+        "address": "TCCT Bangna\n1856 Interlink Tower II Bangna Trad Rd K.M. 4.5,\nBangna,\nBangkok 10260,\nThailand",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec129a7b59dac0eabd1_tcc.svg"
       },
       "geometry": {
@@ -492,7 +486,7 @@
       "properties": {
         "name": "Metfone VTC6",
         "description": "PoP",
-        "address": "St 105K, Phum Kbal Damrei\nSangKat Kakab\nPhnom Penh\nCambodia",
+        "address": "St 105K, Phum Kbal Damrei,\nSangKat Kakab,\nPhnom Penh,\nCambodia",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65562f2e48afbef3b88bb9db_metfone.svg"
       },
       "geometry": {
@@ -508,7 +502,7 @@
       "properties": {
         "name": "Viettel IDC Hoang Hoa Tham",
         "description": "PoP",
-        "address": "58/2A Hoang Hoa Tham Street, Ward 12, Tan Binh Dist., HCMC, Vietnam",
+        "address": "Viettel IDC Hoang Hoa Tham\nH158/2A Hoang Hoa Tham,\nTan Binh,\nHo Chi Minh City 100000,\nVietnam",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec1ed61980a7ccc881a_viettel.svg"
       },
       "geometry": {
