@@ -103,7 +103,7 @@
         "name": "Bridge Data Centres Cyberjaya MY01",
         "description": "PoP",
         "address": "Bridge Data Centres Cyberjaya MY01\n7118 Jalan Impact,\nCyberjaya,\nSelangor 63000,\nMalaysia",
-        "image": "https://example.com/path/to/another-image.jpg"
+        "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0c40fd29c5c9da2ba_bdc.svg"
       },
       "geometry": {
         "type": "Point",
