@@ -1,3 +1,9 @@
+
+
+
+
+
+
 {
   "type": "FeatureCollection",
   "features": [
@@ -6,7 +12,7 @@
       "properties": {
         "name": "Equinix HK1",
         "description": "PoP",
-        "address": "27/F Goodman Global Gateway 168 Yeung Uk Road Tsuen Wan Hong Kong",
+        "address": "Equinix HK1\n27/F Goodman Global Gateway,\n168 Yeung Uk Road,\nTsuen Wan,\nHong Kong",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
@@ -22,7 +28,7 @@
       "properties": {
         "name": "iAdvantage Mega-i",
         "description": "PoP",
-        "address": "399 Chai Wan Road Chai Wan Hong Kong",
+        "address": "iAdvantage Mega-i\n399 Chai Wan Road,\nChai Wan,\nHong Kong",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec07bf44cd9d987bb5e_m.svg"
       },
       "geometry": {
@@ -38,7 +44,7 @@
       "properties": {
         "name": "IDC 3D Duren Tiga",
         "description": "PoP",
-        "address": "Raya No. 7H Duren Tiga Jakarta 12760 Indonesia",
+        "address": "IDC 3D\nJl. Duren Tiga Raya No. 7H,\nDuren Tiga,\nJakarta 12760,\nIndonesia",
         "image": "Example"
       },
       "geometry": {
@@ -54,7 +60,7 @@
       "properties": {
         "name": "Equinix TY2",
         "description": "PoP",
-        "address": "3-8-21 Higashi-Shinagawa Shinagawa-ku Tokyo 140-0002 Japan",
+        "address": "Equinix TY2\n3-8-21 Higashi-Shinagawa,\nShinagawa-ku,\nTokyo 140-0002,\nJapan",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
@@ -70,7 +76,7 @@
       "properties": {
         "name": "AT Tokyo CC1",
         "description": "PoP",
-        "address": "TEPCO Toyosu Building 6-2-15 Toyosu Koto-ku Tokyo 135-0061 Japan",
+        "address": "AT Tokyo CC1\nTEPCO Toyosu Building,\n6-2-15 Toyosu,\nKoto-ku,\nTokyo 135-0061,\nJapan",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec16c9fe3489b7150f6_tokyo.svg"
       },
       "geometry": {
@@ -86,7 +92,7 @@
       "properties": {
         "name": "AIMS",
         "description": "PoP",
-        "address": "Menara AIMS Changkat Raja Chulan Kuala Lumpur 50200 Malaysia",
+        "address": "AIMS\nMenara AIMS,\nChangkat Raja Chulan,\nKuala Lumpur 50200,\nMalaysia",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824b96_aims.svg"
       },
       "geometry": {
@@ -100,9 +106,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cyberjava CX2",
+        "name": "Bridge Data Centres Cyberjaya MY01",
         "description": "PoP",
-        "address": "7118 Jalan Impact Cyberjaya Selangor 63000 Malaysia",
+        "address": "Bridge Data Centres Cyberjaya MY01\n7118 Jalan Impact,\nCyberjaya,\nSelangor 63000,\nMalaysia",
         "image": "https://example.com/path/to/another-image.jpg"
       },
       "geometry": {
@@ -116,9 +122,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vitro Makati 1",
+        "name": "ePLDT VITRO Makati 1",
         "description": "PoP",
-        "address": "34F Yuchengco Tower 2\nRCBC Plaza\nAyala Avenue\nMakati City\nMetro Manila 1200\nPhilippines",
+        "address": "ePLDT VITRO Makati 1\n34F Yuchengco Tower 2,\nRCBC Plaza,\nAyala Avenue,\nMakati City,\nMetro Manila 1200,\nPhilippines",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec06d0f25c7866ddb74_epldr.svg"
       },
       "geometry": {
@@ -134,7 +140,7 @@
       "properties": {
         "name": "1-Net 750D",
         "description": "PoP",
-        "address": "750D Chai Chee Road, #07-04, Singapore 469004",
+        "address": "1-Net East 750D\n750D Chai Chee Road,\n#07-04,\nSingapore 469004,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0d49cdd7db3721962_1net.svg"
       },
       "geometry": {
@@ -150,7 +156,7 @@
       "properties": {
         "name": "1-Net 750E",
         "description": "PoP",
-        "address": "750E Chai Chee Road, #06-01, Singapore 469005",
+        "address": "1-Net East 750E\n750E Chai Chee Road,\n#06-01,\nSingapore 469005,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0d49cdd7db3721962_1net.svg"
       },
       "geometry": {
@@ -166,7 +172,7 @@
       "properties": {
         "name": "BDx SIN1",
         "description": "PoP",
-        "address": "110 Paya Lebar Rd, Singapore 409009",
+        "address": "BDx SIN1\n110 Paya Lebar Road,\nSingapore 409009,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec03804a2e7ae478d07_bdx.svg"
       },
       "geometry": {
@@ -182,7 +188,7 @@
       "properties": {
         "name": "Digital Realty SIN10 (Jurong)",
         "description": "PoP",
-        "address": "29A International Business Park Singapore 609934 Singapore",
+        "address": "Digital Realty SIN10\n29A International Business Park,\nSingapore 609934,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
       "geometry": {
@@ -198,7 +204,7 @@
       "properties": {
         "name": "Digital Realty SIN11 (Loyang)",
         "description": "PoP",
-        "address": "3 Loyang Way Singapore 508719 Singapore",
+        "address": "Digital Realty SIN11\n3 Loyang Way,\nSingapore 508719,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
       "geometry": {
@@ -214,7 +220,7 @@
       "properties": {
         "name": "Digital Realty SIN12 (Loyang)",
         "description": "PoP",
-        "address": "11 Loyang Close Singapore 506756 Singapore",
+        "address": "Digital Realty SIN12\n11 Loyang Close,\nSingapore 506756,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
       "geometry": {
@@ -230,7 +236,7 @@
       "properties": {
         "name": "DXC The Fort",
         "description": "PoP",
-        "address": "6 Changi South Lane Singapore 486400 Singapore",
+        "address": "DXC The Fort\n6 Changi South Lane,\nSingapore 486400,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0ed61980a7ccc8763_dxt.svg"
       },
       "geometry": {
@@ -246,7 +252,7 @@
       "properties": {
         "name": "Epsilon Global Hubs Singapore",
         "description": "PoP",
-        "address": "151 Lorong Chuan #06-02 Lobby A Singapore 556741 Singapore",
+        "address": "Epsilon Global Hubs Singapore\n151 Lorong Chuan,\n#06-02 Lobby A,\nSingapore 556741,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec06c90b517b89c3826_epsilon.svg"
       },
       "geometry": {
@@ -262,7 +268,7 @@
       "properties": {
         "name": "Equinix SG1",
         "description": "PoP",
-        "address": "20 Ayer Rajah Crescent Singapore 139964 Singapore",
+        "address": "Equinix SG1\n20 Ayer Rajah Crescent,\nSingapore 139964,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
@@ -278,7 +284,7 @@
       "properties": {
         "name": "Equinix SG2",
         "description": "PoP",
-        "address": "15 Pioneer Walk #04-01 Singapore 627753 Singapore",
+        "address": "Equinix SG2\n15 Pioneer Walk,\n#04-01,\nSingapore 627753,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
@@ -294,7 +300,7 @@
       "properties": {
         "name": "Equinix SG3",
         "description": "PoP",
-        "address": "26A Ayer Rajah Crescent Private Lot FX1-4a Singapore 139963 Singapore",
+        "address": "Equinix SG3\n26A Ayer Rajah Crescent,\nPrivate Lot FX1-4a,\nSingapore 139963,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
@@ -310,7 +316,7 @@
       "properties": {
         "name": "Equinix SG5",
         "description": "PoP",
-        "address": "6 Sunview Drive Singapore 627488 Singapore",
+        "address": "Equinix SG5\n6 Sunview Drive,\nSingapore 627488,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
@@ -326,7 +332,7 @@
       "properties": {
         "name": "Global Switch Tai Seng",
         "description": "PoP",
-        "address": "2 Tai Seng Avenue Singapore 534408 Singapore",
+        "address": "Global Switch Singapore Tai Seng\n2 Tai Seng Avenue,\nSingapore 534408,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec1a1c692b00ef1d6c6_globalswich.svg"
       },
       "geometry": {
@@ -342,7 +348,7 @@
       "properties": {
         "name": "Keppel DC Singapore 1",
         "description": "PoP",
-        "address": "25 Serangoon North Ave 5 Singapore 554914 Singapore",
+        "address": "Keppel DC Singapore 1\n25 Serangoon North Ave 5,\nSingapore 554914,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec01b8995c850363dcc_keppel.svg"
       },
       "geometry": {
@@ -358,7 +364,7 @@
       "properties": {
         "name": "M1 MiWorld",
         "description": "PoP",
-        "address": "9 International Business Park Singapore 609915 Singapore",
+        "address": "M1 MiWorld\n9 International Business Park,\nSingapore 609915,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec07bf44cd9d987bb5e_m.svg"
       },
       "geometry": {
@@ -374,7 +380,7 @@
       "properties": {
         "name": "NTT Serangoon Data Center",
         "description": "PoP",
-        "address": "51 Serangoon North Avenue 4 Singapore 555858 Singapor",
+        "address": "NTT Serangoon Data Center\n51 Serangoon North Avenue 4,\nSingapore 555858,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec03804a2e7ae478e05_ntt.svg"
       },
       "geometry": {
@@ -390,7 +396,7 @@
       "properties": {
         "name": "Racks Central",
         "description": "PoP",
-        "address": "23 Tai Seng Drive Singapore 535224 Singapore",
+        "address": "Racks Central\n23 Tai Seng Drive,\nSingapore 535224,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec03b9c8ab3e6a5348f_racks.svg"
       },
       "geometry": {
@@ -406,7 +412,7 @@
       "properties": {
         "name": "STT Tai Seng 1",
         "description": "PoP",
-        "address": "35 Tai Seng Street Singapore 534103 Singapore",
+        "address": "STT Tai Seng 1\n35 Tai Seng Street,\nSingapore 534103,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec06d0f25c7866ddbcc_stt.svg"
       },
       "geometry": {
