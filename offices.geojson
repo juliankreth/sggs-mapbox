@@ -6,7 +6,7 @@
       "properties": {
         "name": "SGGS NETWORK SDN. BHD.",
         "description": "Office",
-        "address": "22-1, Jalan Equine 1D, Taman Equine, 43300, Seri Kembangan, Selangor, Malaysia",
+        "address": "Office\n22-1, Jalan Equine 1D,\nTaman Equine, 43300\nSeri Kembangan, Selangor\nMalaysia",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/657763c26ca43b08df26e9df_SGGS-Black.svg"
   
       },
@@ -23,7 +23,7 @@
       "properties": {
         "name": "SG.GS (HK) LIMITED",
         "description": "Office",
-        "address": "10/F RM D, Tower A, Billion Centre, 1 Wang Kwong Road, Kowloon Bay, Kowloon, Hong Kong",
+        "address": "Office\n10/F RM D,\nTower A, Billion Centre,\n1 Wang Kwong Road, Kowloon Bay, Kowloon, Hong Kong",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/657763c26ca43b08df26e9df_SGGS-Black.svg"
   
       },
@@ -40,7 +40,7 @@
       "properties": {
         "name": "SG.GS INTERNATIONAL LTD",
         "description": "Office",
-        "address": "80-83 Long Lane, London, EC1A 9ET United Kingdom",
+        "address": "Office\n80-83 Long Lane,\nLondon,\nEC1A 9ET\nUnited Kingdom",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/657763c26ca43b08df26e9df_SGGS-Black.svg"
   
       },
@@ -57,7 +57,7 @@
       "properties": {
         "name": "SG.GS PTE. LTD.",
         "description": "Office",
-        "address": "750C Chai Chee Road, #02-02, Viva Business Park, Singapore, 469003, Singapore",
+        "address": "Office\n750C Chai Chee Road\n#02-02, Viva Business Park,\nSingapore, 469003,\nSingapore",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/657763c26ca43b08df26e9df_SGGS-Black.svg"
   
       },
