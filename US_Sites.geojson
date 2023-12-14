@@ -6,7 +6,7 @@
       "properties": {
         "name": "Equinix CH1",
         "description": "PoP",
-        "address": "350 E Cermak Rd, 5th Floor, Chicago, IL 60616, \nUnited States of America",
+        "address": "Equinix CH1\n350 E Cermak Rd,\n5th Floor,\nChicago, IL 60616,\nUnited States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
   
       },
@@ -23,7 +23,7 @@
       "properties": {
         "name": "Digital Realty NYC2",
         "description": "PoP",
-        "address": "111 8th Avenue New York, NY 10011 \nUnited States of America",
+        "address": "Digital Realty NYC2\n111 8th Avenue,\nNew York, NY 10011,\nUnited States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0f58144cbcb907838_drt.svg"
       },
       "geometry": {
@@ -39,7 +39,7 @@
       "properties": {
         "name": "Equinix SV1",
         "description": "PoP",
-        "address": "11 Great Oaks Boulevard, San Jose, CA 95119 \nUnited States of America",
+        "address": "Equinix SV1\n11 Great Oaks Boulevard,\nSan Jose, CA 95119,\nUnited States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
@@ -55,7 +55,7 @@
       "properties": {
         "name": "Coresite LA1",
         "description": "PoP",
-        "address": " 624 South Grand Avenue, Los Angeles, CA 90017 \nUnited States of America",
+        "address": "Coresite LA1\n624 South Grand Avenue,\nLos Angeles, CA 90017,\nUnited States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec0636a75cc1ef669a1_coresite.svg"
       },
       "geometry": {
@@ -71,7 +71,7 @@
       "properties": {
         "name": "Equinix DC2",
         "description": "PoP",
-        "address": "21715 Filigree Court, Ashburn, VA 20147 \nUnited States of America",
+        "address": "Equinix DC2\n21715 Filigree Court,\nAshburn, VA 20147,\nUnited States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
@@ -87,7 +87,7 @@
       "properties": {
         "name": "Equinix LA1",
         "description": "PoP",
-        "address": "Equinix LA1, 600 W 7th Street, Los Angeles, CA 90017, \nUnited States",
+        "address": "Equinix LA1\n600 W 7th Street,\nLos Angeles, CA 90017,\nUnited States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
@@ -103,7 +103,7 @@
       "properties": {
         "name": "Equinix MI1",
         "description": "PoP",
-        "address": "50 NE 9th Street, Miami, FL 33132 \nUnited States of America",
+        "address": "Equinix MI1\n50 NE 9th Street,\nMiami, FL 33132,\nUnited States of America",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/64adbec085da1d25d6824bc3_equinix.svg"
       },
       "geometry": {
